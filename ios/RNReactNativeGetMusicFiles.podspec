@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author             = { "author" => "author@domain.cn" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/author/RNReactNativeGetMusicFiles.git", :tag => "master" }
-  s.homepage = "https://github.com/cinder92/react-native-get-music-files"
+  s.homepage = "https://github.com/12nguyenduc/react-native-get-music-files"
   s.source_files  = "RNReactNativeGetMusicFiles/**/*.{h,m}"
   s.requires_arc = true
 
